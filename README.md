@@ -5,7 +5,7 @@ This is a React Native mobile application for managing recipes. It provides feat
 Setup Instructions:
 
 1. Clone the repository:
-   git clone <repository_url>
+   git clone https://github.com/karaderushabh/foodrecipenative
 
 2. Navigate to the project directory:
    cd react-native-app
